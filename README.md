@@ -1,0 +1,2 @@
+# Cloud-Computing_GCP
+The developed system possesses a distributed model architecture, where multiple Google Cloud Services such as App Engine, Cloud Functions, Cloud Storage, Cloud Datastore, Google Charts, Google Forms, and Google APIs such as Distance Matrix API, Geocoding API, Maps JavaScript API have been used as building blocks. In addition, Twilio API for WhatsApp has been used for messaging service.
