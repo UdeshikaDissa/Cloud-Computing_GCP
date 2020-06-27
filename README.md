@@ -27,8 +27,11 @@ App Engine codes:
 
 Google Function codes:
 	Function_DataStore folder
+	
 	Function_Distance folder
+	
 	Function_Storage folder
+	
 	Function_Whatsapp folder
 
 In addition, 'tar files' folder contains .tar files for above folders.
