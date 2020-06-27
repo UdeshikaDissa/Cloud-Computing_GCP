@@ -22,10 +22,10 @@ The developed system possesses a distributed model architecture, where multiple 
 
 This folder contains source codes for the apllication.
 
-App Engine codes: 
+#### App Engine codes: 
 	GAE_Assignment2 folder
 
-Google Function codes:
+#### Google Function codes:
 	Function_DataStore folder
 	
 	Function_Distance folder
@@ -34,4 +34,4 @@ Google Function codes:
 	
 	Function_Whatsapp folder
 
-In addition, 'tar files' folder contains .tar files for above folders.
+**In addition, 'tar files' folder contains .tar files for above folders.
